@@ -189,7 +189,7 @@ ul {
   margin: 0;
   padding: 0;
   overflow: hidden;
-  background-color: 540B0E;
+  background-color: red;
   display: flex; 
   justify-content: space-around; 
 }
@@ -208,9 +208,9 @@ li a {
 }
 
 li a:hover {
-  background-color: 033F63;
+  background-color: black;
 }
 
 .active {
-  background-color: 033F63;
+  background-color: black;
 }
