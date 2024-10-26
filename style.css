@@ -187,13 +187,13 @@ h1, #verif {
 .button {
   display: block; 
   width: 10%;
-  padding: 1%;
+  padding: 0.5em;
   background-color: #C13336;
   color: white;
   text-align: center;
   text-decoration: none;
   border-radius: 5px;
-  margin: 3% auto;
+  margin: 2em auto;
   transition: background-color 0.3s;
 }
 
