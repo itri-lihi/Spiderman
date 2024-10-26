@@ -193,7 +193,10 @@ h1, #verif {
   text-align: center;
   text-decoration: none;
   border-radius: 5px;
-  margin: 50% auto; 
+  margin-right: 50%;
+  margin-left: 50%;
+  margin-top: 5%;
+  margin-bottom: auto;
   transition: background-color 0.3s;
 }
 
