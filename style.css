@@ -185,14 +185,16 @@ h1, #verif {
 }
 
 .button {
-  display: inline-block; 
-  padding: 1 auto; 
-  background-color: #C13336; 
-  color: white; 
-  text-align: center; 
-  text-decoration: none; 
-  border-radius: 5px; 
-  transition: background-color 0.3s; 
+  display: block; 
+  width: 80%;
+  padding: 10%;
+  background-color: #C13336;
+  color: white;
+  text-align: center;
+  text-decoration: none;
+  border-radius: 5px;
+  margin: 20% auto; 
+  transition: background-color 0.3s;
 }
 
 .button:hover {
