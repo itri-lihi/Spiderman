@@ -186,14 +186,14 @@ h1, #verif {
 
 .button {
   display: block; 
-  width: 80%;
-  padding: 10%;
+  width: 20%;
+  padding: 1%;
   background-color: #C13336;
   color: white;
   text-align: center;
   text-decoration: none;
   border-radius: 5px;
-  margin: 20% auto; 
+  margin: 50% auto; 
   transition: background-color 0.3s;
 }
 
