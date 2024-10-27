@@ -132,6 +132,7 @@ h1, #verif {
   justify-content: space-around;
   margin: 2% 0;
 }
+
 .accueil1, .accueil2, .accueil3, .accueil4 {
   width: 25%;
   height: auto;
@@ -194,7 +195,6 @@ h1, #verif {
   text-decoration: none;
   border-radius: 5px;
   margin: 2em auto;
-  transition: background-color 0.3s;
 }
 
 .button:hover {
