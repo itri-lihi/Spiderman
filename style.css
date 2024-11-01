@@ -128,7 +128,15 @@ h1, #verif {
   padding: 1%;
 }
 
-#div2form {
+#div1form {
+  text-align: center;
+  font-family: 'Spidey comic';
+  margin: 0 auto;
+  width: 50%;
+  padding: 1%;
+}
+
+#div2form input {
   width: 100%;
   padding: 12px 20px;
   margin: 8px 0;
@@ -136,15 +144,21 @@ h1, #verif {
 }
 
 #div3form {
-  background-color: #C13336;
-  border: none;
-  color: white;
-  padding: 0.5em;
-  text-decoration: none;
+  text-align: center;
   margin: 2em auto;
 }
 
-#div3form:hover {
+#div3form input[type="submit"] {
+  background-color: #C13336;
+  border: none;
+  color: white;
+  padding: 0.5em 2em;
+  font-size: 1em;
+  cursor: pointer;
+  border-radius: 5px;
+}
+
+#div3form input[type="submit"]:hover {
   background-color: #A12228;
 }
   
