@@ -119,16 +119,6 @@ h1, #verif {
 }
 
 #div1form {
-  display: block;
-  text-align: center;
-  font-family: 'Spidey comic';
-  margin: 0 auto;
-  width: 50%;
-  height: auto;
-  padding: 1%;
-}
-
-#div1form {
   text-align: center;
   font-family: 'Spidey comic';
   margin: 0 auto;
@@ -137,9 +127,9 @@ h1, #verif {
 }
 
 #div2form input {
-  width: 100%;
-  padding: 12px 20px;
-  margin: 8px 0;
+  width: 50%;
+  padding: 5% auto;
+  margin: 3% 0;
   box-sizing: border-box;
 }
 
