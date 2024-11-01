@@ -118,6 +118,36 @@ h1, #verif {
   padding: 1%; 
 }
 
+#div1form {
+  display: block;
+  text-align: center;
+  font-family: 'Spidey comic';
+  margin: 0 auto;
+  width: 50%;
+  height: auto;
+  padding: 1%;
+}
+
+#div2form {
+  width: 100%;
+  padding: 12px 20px;
+  margin: 8px 0;
+  box-sizing: border-box;
+}
+
+#div3form {
+  background-color: #C13336;
+  border: none;
+  color: white;
+  padding: 0.5em;
+  text-decoration: none;
+  margin: 2em auto;
+}
+
+#div3form:hover {
+  background-color: #A12228;
+}
+  
 .logo {
   display: block;
   margin-left: auto;
