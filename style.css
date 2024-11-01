@@ -128,10 +128,14 @@ h1, #verif {
 
 #div2form input {
   width: 50%;
-  padding: 5% auto;
-  margin: 3% 0;
+  padding: 30% auto;
+  margin-top: 3%;
+  margin-bottom: 3%;
+  margin-left: 25%;
+  margin-right: 25%;
   box-sizing: border-box;
 }
+
 
 #div3form {
   text-align: center;
